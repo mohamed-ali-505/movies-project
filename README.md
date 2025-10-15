@@ -59,7 +59,7 @@ The dataset contains movie-related information such as:
 ## 📌 How to Run
 1. Clone this repository:
    ```bash
-   git clone <your-repo-link>
+   git clone <git@github.com:mohamed-ali-505/movies-project.git>
    pip install numpy pandas matplotlib seaborn
    jupyter notebook
 
